@@ -1,0 +1,2 @@
+# DjangoAppPostGreSql
+Django app 
